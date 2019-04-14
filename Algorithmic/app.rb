@@ -40,4 +40,4 @@ def measure_speed_ordered
   p Time.now - start_time
 end
 
-#Time complexity: A nombre égal d'élements dans le tableau, 10 itérations prennent 5.16s pour la première méthode et 0.25s pour la deuxième
+#Time complexity: A nombre egal d'élements dans le tableau, 10 itérations prennent 5.16s pour la première méthode et 0.25s pour la deuxième
